@@ -1,0 +1,74 @@
+#############
+PROPOSTES
+#############
+
+1) Jukebox: provided with genre, artist, and lyrics as input, Jukebox outputs a new music sample produced from scratch.
+https://openai.com/blog/jukebox/
+https://github.com/openai/jukebox
+
+2) Input lyric and output robotic voice
+https://cloud.google.com/text-to-speech
+https://github.com/the-ashh/song-tts
+https://github.com/IvyDowling/nlyricstk
+https://github.com/Anchovie/Rap-synthesis
+https://voicegenerator.io/
+https://uberduck.ai/#mode=tts-basic
+(En català)
+https://collectivat.cat/blog/2019-12-05-sintesi-de-la-parla-xxnn/
+https://catotron.cat/
+
+3) Simpy (Singing Voice Synthesis): alguns tenen idioma espanyol, altres no. Programats en C++ o python
+https://github.com/r9y9/sinsy
+https://github.com/YuzukiTsuru/SinsyPlus
+https://github.com/YuzukiTsuru/lessampler
+
+4) Deep singer: singing Voice Synthesis with Data Mined From the Web
+https://github.com/Sing-it/DeepSinger
+https://github.com/mathigatti/DeepSingingSynthesizer
+
+5) Text to speech libraries: en cap d’aquestes està per spanish, però el primer posa que és fàcil adaptable a altres llengües.
+https://github.com/TensorSpeech/TensorFlowTTS
+https://github.com/mozilla/TTS 
+https://github.com/coqui-ai/TTS
+https://github.com/fatchord/WaveRNN
+https://github.com/Kyubyong/dc_tts
+https://github.com/pndurette/gTTS
+
+6) Text to speech libraries in spanish:
+https://github.com/pilarOG/unit_selection_tts
+https://github.com/aholab/AhoTTS
+https://github.com/mgustran/festival-python
+
+7) Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
+https://github.com/NVIDIA/mellotron
+
+8) Diffusion Acoustic Model for Singing Voice Synthesis
+https://github.com/keonlee9420/DiffSinger
+
+9) DNN-Based-Singing-Voice-Synthesis
+https://github.com/zizyzhang/DNN-Based-Singing-Voice-Synthesis
+
+------------------
+
+Discarted:
+
+1) té bona pinta però el codi està en Rust
+https://github.com/haochuan/sing
+
+2) Programes:
+http://www.vocaloid.com/en/
+https://www.plogue.com/products/alter-ego.html
+
+3) transorma lyric a cançó (una moguda)
+https://melobytes-.com/en/app/melobytes
+https://www.audoir.com/
+
+4) de pagament
+https://www.voiceful.io/
+https://vocalid.ai/
+
+5) es necessita flash player que ja no existeix
+https://www.oddcast.com/technologies/sing/
+
+6) només en english i chinese
+https://speechresearch.github.io/deepsinger/

@@ -1,0 +1,76 @@
+# weights and midi outputs
+server/model_lyrics/save.data-00000-of-00001
+server/model_lyrics/gpt2-model/
+server/model_lyrics/outputs/
+server/model_lyrics/runs/
+server/model_lyrics/cache_dir/
+server/model_beats/outputs/
+
+.DS_Store
+node_modules
+client/node_modules/
+/dist/
+client/dist/
+server/__pycache__/
+server/model/__pycache__/
+
+# local env files
+.env
+.venv
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+client/.venv/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+#jupyter notebook
+*.ipynb
+
+#model file
+#save.data-00000-of-00001
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.idea/
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+#cache
+__pycache__
+*.cache
+
+#pytorch model
+optimizer.pt
+pytorch_model.bin
