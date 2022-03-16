@@ -1,9 +1,12 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
  [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
- 
-Check our website! [lajeepetai.com](http://lajeepetai.com)
 
 # LaJeepetAI
+
+La JeppetAI is a small project used to develop a reggaeton generator. It consist in 3 main parts:
+- Lyrics generation (used scrapped lyrics and trained a NLP model using GPT2 in spanish)
+- Beat generation (used MIDI files and trained different RNN and LSTM models)
+- TTS (used a TTS API to sign our genereated lyrics)
 
 ## How to execute the project in your local machine
 
